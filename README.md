@@ -118,5 +118,6 @@ The combination of Revenue and Profit dashboards provides a comprehensive view o
 The project highlights the importance of presenting data in an interactive and visually accessible format to support business analysis and data-driven decision-making.
 ## Author
 [Shumaila Liaqat]
+
 Data Analytics | Microsoft Excel | Data Visualization | Business Intelligence.
 If you find this project useful or interesting, feel free to explore the dashboard and connect with me!
