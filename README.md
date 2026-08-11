@@ -22,6 +22,7 @@ Comparison of revenue across selected categories and locations
 This dashboard provides a quick and interactive way to identify which products, regions, countries, and sales channels contribute most to overall revenue.
 ## Dashboard 2: Profit Dashboard
 The Profit Dashboard focuses on analyzing profitability and understanding business performance across different dimensions.
+![Profit Dashboard on sales](https://github.com/Shumaila1987/Revenue-Profit-Dashboard-_Excel-Data-Analytics-Project/blob/main/Profit%20Dashboard.png)
 # Interactive Slicers
 Year
 Order
