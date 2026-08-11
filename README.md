@@ -88,6 +88,8 @@ Which orders contribute significantly to profit?
 Which regions and countries are the most profitable?
 How does profitability vary across sales channels?
 ## Project Structure
+sales.csv/
+│
 Revenue-Profit-Dashboard/
 │
 ├── Dashboard on Sales.xlsx
