@@ -1,4 +1,4 @@
-## Revenue-Profit-Dashboard-_Excel-Data-Analytics-Project
+## Revenue-Profit-Dashboard on sales-_Excel-Data-Analytics-Project
 The dashboards transform raw sales data into meaningful visual insights, allowing users to interactively analyze business performance across different products, geographical regions, countries, sales channels, years, and orders.
 Interactive Excel slicers have been incorporated into the dashboards to make data exploration simple and dynamic. Users can select different filter options and instantly view how revenue and profit performance changes across various business dimensions.
 ## Dashboard 1: Revenue Dashboard
