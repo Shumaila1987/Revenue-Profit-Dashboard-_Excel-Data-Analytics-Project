@@ -3,6 +3,7 @@ The dashboards transform raw sales data into meaningful visual insights, allowin
 Interactive Excel slicers have been incorporated into the dashboards to make data exploration simple and dynamic. Users can select different filter options and instantly view how revenue and profit performance changes across various business dimensions.
 ## Dashboard 1: Revenue Dashboard
 The Revenue Dashboard focuses on analyzing revenue performance using interactive filters.
+![Revenue Dashboard on sales](Revenue Dashboard.png)
 # Interactive Slicers
 Item Type
 Region
