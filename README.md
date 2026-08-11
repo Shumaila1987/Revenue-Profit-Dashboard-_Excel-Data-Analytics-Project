@@ -23,6 +23,8 @@ This dashboard provides a quick and interactive way to identify which products, 
 ## Dashboard 2: Profit Dashboard
 The Profit Dashboard focuses on analyzing profitability and understanding business performance across different dimensions.
 ![Profit Dashboard on sales](https://github.com/Shumaila1987/Revenue-Profit-Dashboard-_Excel-Data-Analytics-Project/blob/main/Profit%20Dashboard.png)
+# Region Analysis on sales
+![Map on sales according to region](https://github.com/Shumaila1987/Revenue-Profit-Dashboard-_Excel-Data-Analytics-Project/blob/main/Region%20Analysis.png)
 # Interactive Slicers
 Year
 Order
